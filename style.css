@@ -1,0 +1,27 @@
+body {
+	background-color: #55595c;
+	font-family: system-ui;
+}
+
+#wrapper {
+	background-color: white;
+	max-width: 600px;
+	margin: auto;
+	border-radius: 30px;
+	padding: 20px;
+}
+
+#calculator_picture {
+	-webkit-user-select: none;
+	-webkit-touch-callout: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	display: block;
+	margin: auto;
+}
+
+#url {
+	text-align: center;
+	font-weight: bold;
+}
